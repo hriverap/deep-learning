@@ -1,6 +1,6 @@
 # Deep Learning
 
-El core de la ciencia de la complejidad son los modelos discretos, que incluyen redes y gráficos, autómatas celulares y simulaciones basadas en agentes. Estas herramientas son útiles en las ciencias naturales y sociales, y algunas veces en las artes y las humanidades.
+Disciplima de la Ciencia de Datos que obtiene el conocimiento por medio del uso de redes neuronales profundas bajo distintas arquitecturas tratando de emular el enfoque de aprendizaje que los seres humanos.
 
-@Tarea_01: 
-Corresponde a la primera tarea del ramo NS para el grado de Magister
+@Facial Keypoints Detection: 
+Este trabajo corresponde al primer proyecto del Magister de DataScience
